@@ -5,7 +5,7 @@ This project showcases a Power BI dashboard built using data from Marvel Studios
 
 **Live Dashboard**
 
-Click for [here](https://app.powerbi.com/view?r=eyJrIjoiZjcyM2VlODYtMzM0My00ZWFmLWI4YzUtMTUwZmExNjgwYzc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) live Dashboard
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjcyM2VlODYtMzM0My00ZWFmLWI4YzUtMTUwZmExNjgwYzc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) for live Dashboard
 
 **Tools & Technologies**
 
