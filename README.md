@@ -7,13 +7,13 @@ Tools & Technologies
 •	Microsoft Excel (data source)
 •	DAX & Power Query
 
-** Key Features**
+**Key Features**
 
-•	KPIs showing total revenue, number of movies, and average ratings
-•	Interactive slicers to filter by domestic or worldwide box office
-•	Visual comparisons across Marvel phases and movie release years
-•	Data cleaning and transformation in Power Query
-•	Dashboard designed with custom colors and layout inspired by Marvel branding
+-	KPIs showing total revenue, number of movies, and average ratings
+- Interactive slicers to filter by domestic or worldwide box office
+- Visual comparisons across Marvel phases and movie release years
+- Data cleaning and transformation in Power Query
+- Dashboard designed with custom colors and layout inspired by Marvel branding
 
 **Purpose**
 
