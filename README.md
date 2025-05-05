@@ -2,10 +2,12 @@
 **Project Overview**
 
 This project showcases a Power BI dashboard built using data from Marvel Studios movies. The goal was to analyze box office performance, audience ratings, and release trends in a visually engaging and interactive report.
-Tools & Technologies
-•	Microsoft Power BI
-•	Microsoft Excel (data source)
-•	DAX & Power Query
+
+**Tools & Technologies**
+
+-	Microsoft Power BI
+-	Microsoft Excel (data source)
+-	DAX & Power Query
 
 **Key Features**
 
